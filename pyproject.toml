@@ -17,7 +17,7 @@ easysnmp = "^0.2.6"
 
 [tool.poetry.dev-dependencies]
 black = "^22.10.0"
-flake8 = "^5.0.4"
+flake8 = "^6.0.0"
 flake8-import-order = "^0.18.1"
 pytest = "^7.1.3"
 mypy = "^0.982"
